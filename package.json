@@ -1,5 +1,5 @@
 {
-  "name": "prox-js-netlify",
+  "name": "netlify-proxy",
   "version": "1.0.0",
   "description": "Serverless proxy using Netlify Functions",
   "main": "netlify/functions/proxy.js",
